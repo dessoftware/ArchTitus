@@ -62,7 +62,7 @@ PKGS=(
 'xorg-xkill'
 'xorg-xinit'
 'xterm'
-'plasma-desktop' # KDE Load second
+'xfce4-session'
 'alsa-plugins' # audio plugins
 'alsa-utils' # audio utils
 'ark' # compression
@@ -117,11 +117,8 @@ PKGS=(
 'htop'
 'iptables-nft'
 'jdk-openjdk' # Java 17
-'kate'
 'kcodecs'
 'kcoreaddons'
-'kdeplasma-addons'
-'kde-gtk-config'
 'kinfocenter'
 'kscreen'
 'kvantum-qt5'
@@ -193,7 +190,6 @@ PKGS=(
 'wine-gecko'
 'wine-mono'
 'winetricks'
-'xdg-desktop-portal-kde'
 'xdg-user-dirs'
 'zeroconf-ioslave'
 'zip'
